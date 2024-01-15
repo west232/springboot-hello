@@ -29,3 +29,5 @@ steps:
     repository: 'naresh240/springboot-azure'
     command: 'buildAndPush'
     Dockerfile: '**/Dockerfile'
+
+#### just a new life for test
